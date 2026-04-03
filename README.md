@@ -3,7 +3,7 @@ HR Analysis Dashboard
 About this Project
 
 i built this project to explore how employee data can be used to understand whats happening inside a company. 
-The data was first cleaned and prepared using python and then i used Power BI to turn it into a simple interactive dashbaord. 
+The data was first cleaned and prepared using python and then i used Power BI to turn it into a simple interactive dashboard. 
 <img width="1422" height="799" alt="Image" src="https://github.com/user-attachments/assets/347bf790-2607-4b2c-8fcb-fe9e465b27ae" />
 
 The goal was to focus on a few key things:
@@ -26,5 +26,5 @@ The dashboard gives a quick overview of:
 
   Tools Used
 
-* Python Jupyter Nootbook (for cleaning and preparing the data)
+* Python Jupyter Notebook (for cleaning and preparing the data)
 * Power BI (for building the dashboard and visuals)
