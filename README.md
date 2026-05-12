@@ -1,4 +1,4 @@
-HR Analysis Dashboard
+Workforce & Payroll Analysis 
 
 About this Project
 
